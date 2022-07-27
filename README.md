@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
 </div>
 
-##
+<h2>Stats</h2>
 
 <div align="start">
   <a href="https://github.com/Breno-santana">
