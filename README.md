@@ -4,13 +4,13 @@
   <a href="https://twitter.com/home"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://brenodeveloper10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 </div>
-
+<!-- 
 <h2>Stats</h2>
 
 <div align="start">
   <a href="https://github.com/Breno-santana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breno-santana&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=My%20Stats"/>
-</div>
+</div> -->
 
 <h2>Languages</h2>
 
